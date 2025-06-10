@@ -14,6 +14,8 @@ Analista de Datos especializado en transformar datasets complejos en dashboards 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E84D31?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
   <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
   <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="googlesheets" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode" /></a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /></a>
 </p>
 
 ---
