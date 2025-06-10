@@ -45,11 +45,12 @@ Aquí puedes encontrar una selección de mis trabajos más representativos.
 Estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
 <p align="left">
-<a href="https://linkedin.com/in/[tu-usuario-linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mi-linkedin" height="30" width="40" /></a>
-<a href="mailto:[tu.email@ejemplo.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="mi-email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/efrainchapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mi-linkedin" height="30" width="40" /></a>
+<a href="mailto:chapalefrain@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="mi-email" height="30" width="40" /></a>
 </p>
-
+LinkedIn: https://www.linkedin.com/in/efrainchapal/
+Email: chapalefrain@gmail.com
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[efrainchapal]&show_icons=true&locale=es&theme=radical" alt="estadisticas-github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=efrainchapal&show_icons=true&locale=es&theme=radical" alt="estadisticas-github" />
 </p>
