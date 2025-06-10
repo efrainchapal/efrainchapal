@@ -5,7 +5,7 @@ Analista de Datos especializado en transformar datasets complejos en dashboards 
 
 ---
 
-## 🛠️ Mi Caja de Herramientas (Tech Stack)
+## 🛠️ My Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
@@ -44,5 +44,5 @@ Aquí puedes encontrar una selección de mis trabajos más representativos.
 
 Estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
--**LinkedIn:** https://www.linkedin.com/in/efrainchapal/
--**Email:** chapalefrain@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/efrainchapal/ 
+**Email:** chapalefrain@gmail.com
